@@ -1,6 +1,7 @@
 # GEONLP
 AI - NLP &amp; Spatial Data Science
 **GeoNLP REPO:
+
 Extracting Geographical Insights from Unstructured Text**
 
 This repository focuses on the challenge of extracting spatial information from unstructured textual data using Natural Language Processing (NLP). Dealing with unstructured data, especially from diverse sources, poses difficulties due to the lack of predictable formatting and the random dispersion of geographic data. This project aims to address these challenges and explore methodologies using NLP and geoparsing techniques.
